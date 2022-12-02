@@ -1,0 +1,92 @@
+body {
+    color:white;
+    background-color: black; 
+    font-family: Arial, Helvetica, sans-serif
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 25px;
+    }
+
+a {
+    color: rgb(75, 155, 75);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+       }
+
+header img {
+     width: 150px;
+     height: 150px;
+     border-radius: 50%;
+     border: 5px solid rgb(75, 155, 75);
+        }
+
+.partedaimg {
+     text-align: center;
+     background-image: linear-gradient(to top, rgba(0,0,0,1) 0%,rgba(0,0,0,0) 100%), url('./img/florest.jpg');
+     background-repeat: no-repeat;
+     border-radius: 10px 20px;
+
+}
+
+h1 {
+     color: rgb(75, 155, 75);
+     text-align: center;
+}
+
+h2 {
+     color: rgb(126, 165, 129);
+     text-align: center;
+}
+
+footer img{
+    width: 66px;
+    height: 66px;
+    border-radius: 80%;
+}
+
+footer{
+    display: flex;
+    justify-content: center; 
+    }
+
+footer a{
+    text-align: center;
+    margin: 20px;
+    margin-top: 3%;
+    color:rgb(96, 114, 96);
+  }
+
+  .container {
+    padding: 0px 50px;
+
+  }
+
+  nav a:hover {
+     color:rgb(255, 255, 255);
+  }
+
+h3 {
+     color:rgb(75, 155, 75) 
+}
+
+footer p{
+    margin-top: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    background-color: linear-gradient(to top, rgba(0,0,0,1) 0%,rgba(0,0,0,0) 100%) rgb(75, 155, 75);
+    color: rgb(75, 155, 75);
+    padding: 0px 50px;
+    border-radius: 10%;
+   }
+
+header {
+    padding: 0px 50px;
+}   
