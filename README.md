@@ -28,15 +28,7 @@ mostrando na prática como investigar, conter e documentar incidentes de seguran
 
 ---
 
-##  Destaques para Entrevista
-- **Dashboards de detecção** → login falho + execução de processo suspeito  
-- **Query MITRE ATT&CK** → hunting contra execução de PowerShell obfuscado  
-- **Playbook IR** → phishing com exfiltração HTTP (simulado, detectado, contido e documentado)  
-- **Automação SOAR** → script para isolar host comprometido diretamente do SIEM  
-
----
-
-##  Roadmap (8 semanas)
+##  Roadmap 
 Cada semana foca em um pilar do SOC:  
 1. Logs e triagem inicial (Windows/Linux)  
 2. SIEM caseiro (Wazuh/ELK/Splunk)  
