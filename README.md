@@ -60,5 +60,5 @@ Cada semana foca em um pilar do SOC:
 ---
 
 ##  Autor
-**Thiago (thizam0)** — Analista Blue Team  
+**Thiago (thizam0)** — Analista de Segurança da Informação  
 Focado em Threat Hunting, Redução de Falsos positivos, Resposta a Incidentes e Automação de SOC.  
