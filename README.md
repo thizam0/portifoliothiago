@@ -10,7 +10,7 @@ mostrando na prática como investigar, conter e documentar incidentes de seguran
 
 ---
 
-## 🔎 Principais Capacidades Demonstradas
+##  Principais Capacidades Demonstradas
 - **SIEM/EDR**: ingestão de logs, dashboards e correlação de eventos (Wazuh/ELK, Splunk Free, osquery, Sysinternals)  
 - **Threat Hunting**: queries mapeadas para MITRE ATT&CK e investigações guiadas  
 - **Forense**: análise rápida de memória e extração de evidências com Volatility  
@@ -20,7 +20,7 @@ mostrando na prática como investigar, conter e documentar incidentes de seguran
 
 ---
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 - `labs/` → relatórios técnicos e evidências de cada simulação  
 - `scripts/` → automações (Python / PowerShell)  
 - `dashboards/` → consultas e visualizações SIEM/EDR  
@@ -28,7 +28,7 @@ mostrando na prática como investigar, conter e documentar incidentes de seguran
 
 ---
 
-## 🚀 Destaques para Entrevista
+##  Destaques para Entrevista
 - **Dashboards de detecção** → login falho + execução de processo suspeito  
 - **Query MITRE ATT&CK** → hunting contra execução de PowerShell obfuscado  
 - **Playbook IR** → phishing com exfiltração HTTP (simulado, detectado, contido e documentado)  
@@ -36,7 +36,7 @@ mostrando na prática como investigar, conter e documentar incidentes de seguran
 
 ---
 
-## 📌 Roadmap (8 semanas)
+##  Roadmap (8 semanas)
 Cada semana foca em um pilar do SOC:  
 1. Logs e triagem inicial (Windows/Linux)  
 2. SIEM caseiro (Wazuh/ELK/Splunk)  
@@ -49,7 +49,7 @@ Cada semana foca em um pilar do SOC:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **SIEM/Logs**: Wazuh, ELK, Splunk Free, Beats  
 - **EDR**: osquery, Sysinternals  
 - **Hunting**: MITRE ATT&CK, SPL/KQL/Elastic queries  
@@ -59,6 +59,6 @@ Cada semana foca em um pilar do SOC:
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 **Thiago (thizam0)** — Analista Blue Team  
 Focado em Threat Hunting, Redução de Falsos positivos, Resposta a Incidentes e Automação de SOC.  
